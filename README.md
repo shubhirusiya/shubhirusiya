@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-<img src="https://media.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" width="350" align="right" />
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" align="right" />
 
-I'm a passionate **front-end web developer** with a strong interest in **artificial intelligence** and **machine learning**. I enjoy solving real-world problems through code and creativity. I'm also interested in **entrepreneurship** and love exploring innovative ideas to build solutions.
+I'm a passionate **front-end web developer** with a strong interest in **artificial intelligence** and **machine learning**. I enjoy solving real-world problems through code and creativity. I'm also deeply interested in **entrepreneurship** and love exploring innovative ideas to build solutions.
 
 - 🔭 Currently working on exciting **web development projects**.
 - 🌱 Learning and improving skills in **React** and **JavaScript frameworks**.
@@ -54,11 +54,11 @@ I'm an avid reader, and some of my favorites include *"Atomic Habits"*, *"Thinki
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=tokyonight&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
@@ -73,7 +73,11 @@ I'm an avid reader, and some of my favorites include *"Atomic Habits"*, *"Thinki
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" width="300px" />
   <br>
   <em>Let's build something awesome together! 🚀</em>
 </div>
+
+
+
+
