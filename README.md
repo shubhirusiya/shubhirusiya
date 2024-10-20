@@ -32,12 +32,6 @@ I specialize in creating responsive, interactive websites using modern technolog
 ### 🚀 Artificial Intelligence
 I’m constantly learning about **predictive modeling** to **real-time AI applications**.
 
-### 👩‍🏫 Education
-I'm a firm believer in continuous learning. I'm currently enrolled in several online courses to deepen my knowledge in **web development**, **business analysis**, and **coding best practices**.
-
-### 🧠 Psychology & Books
-I’m an avid reader, and books like *"Atomic Habits"*, *"Thinking, Fast and Slow"*, and *"The Lean Startup"* have had a significant impact on me. I find that understanding **human behavior** helps me in both coding and entrepreneurship.
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhirusiya)
