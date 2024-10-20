@@ -3,12 +3,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **front-end web developer** having a keen interest in artificial intelligence and machine learning as well who loves to solve real-world problems through code and creativity. Besides coding, I also have a strong interest in **entrepreneurship** and enjoy exploring innovative ideas to build solutions.
+I'm a passionate **front-end web developer** having a keen interest in **artificial intelligence and machine learning** as well who loves to solve real-world problems through code and creativity. Besides coding, I also have a interest in **entrepreneurship** and enjoy exploring innovative ideas to build solutions.
 
 - 🔭 I’m currently working on **exciting web development projects**.
 - 🌱 I’m learning and improving my skills in **React** and **JavaScript frameworks**.
-- 🎯 My goal is to **launch a successful startup** in the tech space.
-- 📚 I enjoy reading books about **psychology** and **startups**, which help me in both my personal and professional life.
+- 🔭I'm currently learning **AIML** and building projects on it.
+- 📚 I enjoy reading books about **psychology** and **entrepreneurship**, which help me in both my personal and professional life.
 
 ---
 
@@ -29,8 +29,8 @@ I'm a passionate **front-end web developer** having a keen interest in artificia
 ### 🌐 Front-end Development
 I specialize in creating responsive, interactive websites using modern technologies. Currently, I'm focused on mastering frameworks like **React** and improving user experience design.
 
-### 🚀 Entrepreneurship
-I’m constantly learning about **business strategies** and how to develop scalable solutions for real-world problems. I’ve participated in several pitch competitions and love brainstorming new startup ideas.
+### 🚀 Artificial Intelligence
+I’m constantly learning about **predictive modeling** to **real-time AI applications**.
 
 ### 👩‍🏫 Education
 I'm a firm believer in continuous learning. I'm currently enrolled in several online courses to deepen my knowledge in **web development**, **business analysis**, and **coding best practices**.
