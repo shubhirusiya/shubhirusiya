@@ -38,15 +38,6 @@ I'm a firm believer in continuous learning. I'm currently enrolled in several on
 ### 🧠 Psychology & Books
 I’m an avid reader, and books like *"Atomic Habits"*, *"Thinking, Fast and Slow"*, and *"The Lean Startup"* have had a significant impact on me. I find that understanding **human behavior** helps me in both coding and entrepreneurship.
 
----
-
-## 🎨 Fun Facts About Me
-- I love solving **coding challenges** and enhancing my problem-solving skills.
-- I enjoy working on **open-source projects** and contributing to the community.
-- I’m fascinated by the intersection of **technology** and **human behavior**.
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhirusiya)
